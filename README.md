@@ -13,6 +13,10 @@ The page also displays the existing opinions along with their translations.
 - the [SQLite][sqlite] database,
 - the [Twitter Bootstrap][twitter] to get some nice look&feel.
 
+**Live demo**
+
+See [a live demo][demo]!
+
 ## Setup
 
 
@@ -64,4 +68,4 @@ Upload the files to a server. Add some opinions. Read the existing ones. Have fu
 [translator]: https://github.com/jacek-b/PHPGoogleTranslator
 [sqlite]: http://www.sqlite.org/
 [twitter]: http://getbootstrap.com/
-[demo]: https://github.com/
+[demo]: http://jacekbarecki.com/GoogleTranslate/
