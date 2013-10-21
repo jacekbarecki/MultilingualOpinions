@@ -3,6 +3,8 @@ MultilingualOpinions
 
 A one-page PHP site for gathering user opinions and displaying them in different languages basing on the translations provided by the Google Translate API.
 
+This is the source code of the Sitepoint article: http://www.sitepoint.com/auto-translating-user-submitted-content-using-google-translate-api/
+
 ## Overview
 This is a simple PHP application that allows a visitor to add a new opinion using a web form. The opinion is saved to 
 the database along with the translations to different languages fetched from the Google Translate API. 
